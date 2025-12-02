@@ -1,0 +1,94 @@
+{
+  "tasks": [
+    {
+      "name": "Fix production bug in payment system",
+      "urgency": 10,
+      "importance": 9,
+      "effort": 3,
+      "deadline": "2025-11-22",
+      "status": "todo",
+      "priority": "high"
+    },
+    {
+      "name": "Complete Upwork profile setup",
+      "urgency": 8,
+      "importance": 9,
+      "effort": 2,
+      "deadline": "2025-11-23",
+      "status": "in_progress",
+      "priority": "high"
+    },
+    {
+      "name": "Write documentation for API project",
+      "urgency": 5,
+      "importance": 7,
+      "effort": 6,
+      "deadline": "2025-11-28",
+      "status": "todo",
+      "priority": "medium"
+    },
+    {
+      "name": "Review pull request from team",
+      "urgency": 7,
+      "importance": 6,
+      "effort": 2,
+      "deadline": "2025-11-24",
+      "status": "todo",
+      "priority": "medium"
+    },
+    {
+      "name": "Plan Q1 project roadmap",
+      "urgency": 4,
+      "importance": 8,
+      "effort": 8,
+      "deadline": "2025-12-15",
+      "status": "todo",
+      "priority": "medium"
+    },
+    {
+      "name": "Refactor legacy codebase",
+      "urgency": 3,
+      "importance": 6,
+      "effort": 10,
+      "deadline": "2025-12-30",
+      "status": "todo",
+      "priority": "low"
+    },
+    {
+      "name": "Update dependencies to latest versions",
+      "urgency": 6,
+      "importance": 5,
+      "effort": 4,
+      "deadline": "2025-11-26",
+      "status": "todo",
+      "priority": "medium"
+    },
+    {
+      "name": "Create portfolio screenshots",
+      "urgency": 9,
+      "importance": 9,
+      "effort": 1,
+      "deadline": "2025-11-22",
+      "status": "todo",
+      "priority": "high"
+    },
+    {
+      "name": "Research competitor features",
+      "urgency": 2,
+      "importance": 5,
+      "effort": 6,
+      "deadline": "2025-12-10",
+      "status": "todo",
+      "priority": "low"
+    },
+    {
+      "name": "Optimize database queries",
+      "urgency": 7,
+      "importance": 8,
+      "effort": 5,
+      "deadline": "2025-11-25",
+      "status": "todo",
+      "priority": "high"
+    }
+  ]
+}

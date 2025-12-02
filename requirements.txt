@@ -1,0 +1,14 @@
+# Task Priority Scorer - Requirements
+# Python 3.11+ required
+
+# No external dependencies required!
+# This project uses only Python standard library:
+# - json (JSON parsing)
+# - datetime (date calculations)
+# - typing (type hints)
+# - dataclasses (data models)
+# - enum (enumerations)
+
+# Optional: If you want to add data visualization later
+# matplotlib>=3.8.0
+# pandas>=2.1.0

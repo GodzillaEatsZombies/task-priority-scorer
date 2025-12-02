@@ -1,0 +1,112 @@
+{
+  "scored_at": "2025-12-02T08:41:36.463001",
+  "total_tasks": 10,
+  "algorithm": {
+    "urgency_weight": 0.4,
+    "importance_weight": 0.3,
+    "deadline_weight": 0.2,
+    "effort_weight": 0.1
+  },
+  "tasks": [
+    {
+      "name": "Fix production bug in payment system",
+      "urgency": 10,
+      "importance": 9,
+      "effort": 3,
+      "deadline": "2025-11-22",
+      "status": "todo",
+      "priority": "high",
+      "score": 9.4
+    },
+    {
+      "name": "Create portfolio screenshots",
+      "urgency": 9,
+      "importance": 9,
+      "effort": 1,
+      "deadline": "2025-11-22",
+      "status": "todo",
+      "priority": "high",
+      "score": 9.2
+    },
+    {
+      "name": "Complete Upwork profile setup",
+      "urgency": 8,
+      "importance": 9,
+      "effort": 2,
+      "deadline": "2025-11-23",
+      "status": "in_progress",
+      "priority": "high",
+      "score": 8.7
+    },
+    {
+      "name": "Optimize database queries",
+      "urgency": 7,
+      "importance": 8,
+      "effort": 5,
+      "deadline": "2025-11-25",
+      "status": "todo",
+      "priority": "high",
+      "score": 7.7
+    },
+    {
+      "name": "Review pull request from team",
+      "urgency": 7,
+      "importance": 6,
+      "effort": 2,
+      "deadline": "2025-11-24",
+      "status": "todo",
+      "priority": "medium",
+      "score": 7.4
+    },
+    {
+      "name": "Write documentation for API project",
+      "urgency": 5,
+      "importance": 7,
+      "effort": 6,
+      "deadline": "2025-11-28",
+      "status": "todo",
+      "priority": "medium",
+      "score": 6.5
+    },
+    {
+      "name": "Update dependencies to latest versions",
+      "urgency": 6,
+      "importance": 5,
+      "effort": 4,
+      "deadline": "2025-11-26",
+      "status": "todo",
+      "priority": "medium",
+      "score": 6.5
+    },
+    {
+      "name": "Plan Q1 project roadmap",
+      "urgency": 4,
+      "importance": 8,
+      "effort": 8,
+      "deadline": "2025-12-15",
+      "status": "todo",
+      "priority": "medium",
+      "score": 5.0
+    },
+    {
+      "name": "Research competitor features",
+      "urgency": 2,
+      "importance": 5,
+      "effort": 6,
+      "deadline": "2025-12-10",
+      "status": "todo",
+      "priority": "low",
+      "score": 3.9
+    },
+    {
+      "name": "Refactor legacy codebase",
+      "urgency": 3,
+      "importance": 6,
+      "effort": 10,
+      "deadline": "2025-12-30",
+      "status": "todo",
+      "priority": "low",
+      "score": 3.4
+    }
+  ]
+}
