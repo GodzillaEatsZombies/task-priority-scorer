@@ -4,7 +4,7 @@ An intelligent Python algorithm that scores and ranks tasks based on multiple fa
 
 ## 📸 Screenshot
 
-![Task Priority Scorer Output](./screenshots/task-scorer-output.png)
+![Task Priority Scorer Output](./screenshots/task-scorer-output-screenshot.png)
 
 ## ✨ Features
 
